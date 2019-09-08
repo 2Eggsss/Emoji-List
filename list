@@ -1,0 +1,84 @@
+    if joinedlist == "ac":   #Ascension Island
+        emoji = '🇦🇨'
+    elif joinedlist == "ad": #Andorra
+        emoji = '🇦🇩'
+    elif joinedlist == "ae": #United Arab Emirates
+        emoji = '🇦🇪'
+    elif joinedlist == "af": #Afghanistan
+        emoji = '🇦🇫'
+    elif joinedlist == 'ag': #Antigua and Barbuda
+        emoji = '🇦🇬'
+    elif joinedlist == 'ai': #Anguilla
+        emoji = '🇦🇮'
+    elif joinedlist == 'al': #Albania
+        emoji = '🇦🇱'
+    elif joinedlist == 'am': #Armenia
+        emoji = '🇦🇲'
+    elif joinedlist == 'ao': #Angola
+        emoji = '🇦🇴'
+    elif joinedlist == 'aq': #Antarctica
+        emoji = '🇦🇶'
+    elif joinedlist == 'ar': #Argentina
+        emoji = '🇦🇷'
+    elif joinedlist == 'as': #American Samoa
+        emoji = '🇦🇸'
+    elif joinedlist == 'at': #Austria
+        emoji = '🇦🇹'
+    elif joinedlist == 'au': #Australia
+        emoji = '🇦🇺'
+    elif joinedlist == 'aw': #Aruba
+        emoji = '🇦🇼'
+    elif joinedlist == 'ax': #Åland Islands
+        emoji = '🇦🇽'
+    elif joinedlist == 'az': #Azerbaijan
+        emoji = '🇦🇿'
+    elif joinedlist == 'ba': #Bosnia & Herzegovina
+        emoji = '🇧🇦'
+    elif joinedlist == 'bb': #Barbados
+        emoji = '🇧🇧'
+    elif joinedlist == 'bd': #Bangladesh
+        emoji = '🇧🇩'
+    elif joinedlist == 'be': #Belgium
+        emoji = '🇧🇪'
+    elif joinedlist == 'bf': #Burkina Faso
+        emoji = '🇧🇫'
+    elif joinedlist == 'bg': #Bulgaria
+        emoji = '🇧🇬'
+    elif joinedlist == 'bh': #Bahrain
+        emoji = '🇧🇭'
+    elif joinedlist == 'bi': #Burundi
+        emoji = '🇧🇮'
+    elif joinedlist == 'bj': #Benin
+        emoji = '🇧🇯'
+    elif joinedlist == 'bl': #St. Barthélemy
+        emoji = '🇧🇱'
+    elif joinedlist == 'bm': #Bermuda
+        emoji = '🇧🇲'
+    elif joinedlist == 'bn': #Brunei
+        emoji = '🇧🇳'
+    elif joinedlist == 'bo': #Bolivia
+        emoji = '🇧🇴'
+    elif joinedlist == 'bq': #Caribbean Netherlands
+        emoji = '🇧🇶'
+    elif joinedlist == 'br': #ComeToBrazil LOL!
+        emoji = '🇧🇷'
+    elif joinedlist == 'bs': #Bahamas
+        emoji = '🇧🇸'
+    elif joinedlist == 'bt': #Bhutan
+        emoji = '🇧🇹'
+    elif joinedlist == 'bv': #Bouvet Island
+        emoji = '🇧🇻'
+    elif joinedlist == 'bw': #Botswana
+        emoji = '🇧🇼'
+    elif joinedlist == 'by': #Belarus
+        emoji = '🇧🇾'
+    elif joinedlist == 'bz': #Belize
+        emoji = '🇧🇿'
+    elif joinedlist == 'ca': #Canada
+        emoji = '🇨🇦'
+    elif joinedlist == 'cc': #Cocos (Keeling) Islands
+        emoji = '🇨🇨'
+    elif joinedlist == 'cd': #Congo - Kinshasa
+        emoji = '🇨🇩'
+    elif joinedlist == 'cf': #Central African Republic
+        emoji = '🇨🇫'
